@@ -1,0 +1,15 @@
+C:\Users\uoral\Desktop\HackerRank\HackerRankDay0Challange\bin\Debug\net6.0\HackerRankDay0Challange.exe
+C:\Users\uoral\Desktop\HackerRank\HackerRankDay0Challange\bin\Debug\net6.0\HackerRankDay0Challange.deps.json
+C:\Users\uoral\Desktop\HackerRank\HackerRankDay0Challange\bin\Debug\net6.0\HackerRankDay0Challange.runtimeconfig.json
+C:\Users\uoral\Desktop\HackerRank\HackerRankDay0Challange\bin\Debug\net6.0\HackerRankDay0Challange.dll
+C:\Users\uoral\Desktop\HackerRank\HackerRankDay0Challange\bin\Debug\net6.0\HackerRankDay0Challange.pdb
+C:\Users\uoral\Desktop\HackerRank\HackerRankDay0Challange\obj\Debug\net6.0\HackerRankDay0Challange.csproj.AssemblyReference.cache
+C:\Users\uoral\Desktop\HackerRank\HackerRankDay0Challange\obj\Debug\net6.0\HackerRankDay0Challange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uoral\Desktop\HackerRank\HackerRankDay0Challange\obj\Debug\net6.0\HackerRankDay0Challange.AssemblyInfoInputs.cache
+C:\Users\uoral\Desktop\HackerRank\HackerRankDay0Challange\obj\Debug\net6.0\HackerRankDay0Challange.AssemblyInfo.cs
+C:\Users\uoral\Desktop\HackerRank\HackerRankDay0Challange\obj\Debug\net6.0\HackerRankDay0Challange.csproj.CoreCompileInputs.cache
+C:\Users\uoral\Desktop\HackerRank\HackerRankDay0Challange\obj\Debug\net6.0\HackerRankDay0Challange.dll
+C:\Users\uoral\Desktop\HackerRank\HackerRankDay0Challange\obj\Debug\net6.0\refint\HackerRankDay0Challange.dll
+C:\Users\uoral\Desktop\HackerRank\HackerRankDay0Challange\obj\Debug\net6.0\HackerRankDay0Challange.pdb
+C:\Users\uoral\Desktop\HackerRank\HackerRankDay0Challange\obj\Debug\net6.0\HackerRankDay0Challange.genruntimeconfig.cache
+C:\Users\uoral\Desktop\HackerRank\HackerRankDay0Challange\obj\Debug\net6.0\ref\HackerRankDay0Challange.dll

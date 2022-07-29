@@ -1,0 +1,15 @@
+C:\Users\uoral\Desktop\C#\DegiskenlerEgitimi\bin\Debug\net6.0\DegiskenlerEgitimi.exe
+C:\Users\uoral\Desktop\C#\DegiskenlerEgitimi\bin\Debug\net6.0\DegiskenlerEgitimi.deps.json
+C:\Users\uoral\Desktop\C#\DegiskenlerEgitimi\bin\Debug\net6.0\DegiskenlerEgitimi.runtimeconfig.json
+C:\Users\uoral\Desktop\C#\DegiskenlerEgitimi\bin\Debug\net6.0\DegiskenlerEgitimi.dll
+C:\Users\uoral\Desktop\C#\DegiskenlerEgitimi\bin\Debug\net6.0\DegiskenlerEgitimi.pdb
+C:\Users\uoral\Desktop\C#\DegiskenlerEgitimi\obj\Debug\net6.0\DegiskenlerEgitimi.csproj.AssemblyReference.cache
+C:\Users\uoral\Desktop\C#\DegiskenlerEgitimi\obj\Debug\net6.0\DegiskenlerEgitimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uoral\Desktop\C#\DegiskenlerEgitimi\obj\Debug\net6.0\DegiskenlerEgitimi.AssemblyInfoInputs.cache
+C:\Users\uoral\Desktop\C#\DegiskenlerEgitimi\obj\Debug\net6.0\DegiskenlerEgitimi.AssemblyInfo.cs
+C:\Users\uoral\Desktop\C#\DegiskenlerEgitimi\obj\Debug\net6.0\DegiskenlerEgitimi.csproj.CoreCompileInputs.cache
+C:\Users\uoral\Desktop\C#\DegiskenlerEgitimi\obj\Debug\net6.0\DegiskenlerEgitimi.dll
+C:\Users\uoral\Desktop\C#\DegiskenlerEgitimi\obj\Debug\net6.0\refint\DegiskenlerEgitimi.dll
+C:\Users\uoral\Desktop\C#\DegiskenlerEgitimi\obj\Debug\net6.0\DegiskenlerEgitimi.pdb
+C:\Users\uoral\Desktop\C#\DegiskenlerEgitimi\obj\Debug\net6.0\DegiskenlerEgitimi.genruntimeconfig.cache
+C:\Users\uoral\Desktop\C#\DegiskenlerEgitimi\obj\Debug\net6.0\ref\DegiskenlerEgitimi.dll
